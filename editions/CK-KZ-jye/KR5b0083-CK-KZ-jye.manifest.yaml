@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5b0083/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5b0083/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞玄靈寶天尊說救苦妙經註解
+  date: '2015-08-28 23:49:06.488917'
+  source:
+    repository: kanripo
+    path: KR5b0083
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0083_000-CK-KZ-jye.yaml, hash: 'sha256:df4499ca5320d01d05d10e3d36cd4e19f0dec4349d38c35c3e21d534766bc5f1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0083_000-CK-KZ-jye.markers.yaml, hash: 'sha256:215a7851a7a192d39edd385599615cf70a5fd6655865d721c382d88402ab3a25'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0083_CK-KZ-jye_000-h2
+    span:
+    - body
+    - 0
+    - 7690
+  label: 太上洞玄靈寶天尊說救苦妙經
+  type: section
+  level: 1
+hash: sha256:fa0bbe0e90c9587c237353b5595583b3b16d8394b597737c6b4f88e5100dba29

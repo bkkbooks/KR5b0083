@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0083/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5b0083/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞玄靈寶天尊說救苦妙經註解
+  date: '2015-08-28 23:49:06.488917'
+  source:
+    repository: kanripo
+    path: KR5b0083
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0083_000-HFL.yaml, hash: 'sha256:21ab16125ac08185d4e26300f822a2738a72ddd0120d79785a7c3fa16141aa55'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0083_000-HFL.markers.yaml, hash: 'sha256:02e7eecf09e4809fe1bb370d81419329da924c4438184b7585b0725ecf46539f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0083_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 7703
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:fde20b6a721c7aaadb90a17511a2a540be7d24ed9529a3848de89741ff7aaf01
