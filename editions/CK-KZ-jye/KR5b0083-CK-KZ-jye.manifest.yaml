@@ -24,7 +24,7 @@ assets:
   parts:
   - {seq: 0, filename: KR5b0083_000-CK-KZ-jye.yaml, hash: 'sha256:df4499ca5320d01d05d10e3d36cd4e19f0dec4349d38c35c3e21d534766bc5f1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5b0083_000-CK-KZ-jye.markers.yaml, hash: 'sha256:215a7851a7a192d39edd385599615cf70a5fd6655865d721c382d88402ab3a25'}
+  - {seq: 0, role: markers, filename: assets/KR5b0083_000-CK-KZ-jye.markers.yaml, hash: 'sha256:a9e51a04c6bc34775571d2b5bdc84663d501a56a3885cdaff96595b74b40e164'}
 table_of_contents:
 - ref:
     seq: 0
@@ -36,4 +36,4 @@ table_of_contents:
   label: 太上洞玄靈寶天尊說救苦妙經
   type: section
   level: 1
-hash: sha256:fa0bbe0e90c9587c237353b5595583b3b16d8394b597737c6b4f88e5100dba29
+hash: sha256:44d7930c253ae66dffe6373c11152b554e9ad224fb52c617986e4016ff6bb694
